@@ -1,11 +1,14 @@
-[
 {
-	"Name":"Zach"
-	"Salary":100.00
-},
-{
-	"Name":"Sean"
-	"Salary":50.00
+   "employee": [
+	
+      {
+         "name":"Zach",
+         "salary":100
+      },
+	
+      {
+         "name":"Zach",
+         "salary":160
+      }
+   ]
 }
-
-]
