@@ -1,14 +1,14 @@
-{
-   "employee": [
-	
-      {
-         "name":"Zach",
-         "salary":100
-      },
-	
-      {
-         "name":"Zach",
-         "salary":160
-      }
-   ]
-}
+[
+  {
+    "Name": "Zach",
+    "Title": "Emperor"
+  },
+  {
+    "Name": "Sean",
+    "Title": "Court Jester"
+  },
+  {
+    "Name": "Collins",
+    "Title": "Coffee Retriever"
+  }
+]
